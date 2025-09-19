@@ -37,9 +37,9 @@ You can enter my LeetCode account directly by clicking the icon below:
 <img align="left" alt="MongoDB" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
 <img align="left" alt="SQL" width="30px" src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" />
 <img align="left" alt="Kafka" width="30px" src="https://cdn.simpleicons.org/apachekafka/231F20" />  
-<img align="left" alt="Docker" width="30px" src="https://cdn.simpleicons.org/docker/2496ED" />  
-<img align="left" alt="Git" width="30px" src="https://cdn.simpleicons.org/git/F05032" />  
+<img align="left" alt="Docker" width="30px" src="https://cdn.simpleicons.org/docker/2496ED" />
 <br clear="left"/>
+<img align="left" alt="Git" width="30px" src="https://cdn.simpleicons.org/git/F05032" />  
 <img align="left" alt="GitHub" width="30px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" />
 <img align="left" alt="Redis" width="30px" src="https://cdn.simpleicons.org/redis/DC382D" />  
 <img align="left" alt="Postman" width="30px" src="https://cdn.simpleicons.org/postman/FF6C37" />  
