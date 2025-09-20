@@ -50,6 +50,7 @@ You can enter my LeetCode account directly by clicking the icon below:
 
 <p align="left">
   <!-- Row 4 -->
+  <img align="left" alt="GraphQL" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />
   <img alt="Kafka" width="50px" height="50px" src="https://cdn.simpleicons.org/apachekafka/231F20" />
   <img alt="Docker" width="50px" height="50px" src="https://cdn.simpleicons.org/docker/2496ED" />
   <img alt="Git" width="50px" height="50px" src="https://cdn.simpleicons.org/git/F05032" />  
