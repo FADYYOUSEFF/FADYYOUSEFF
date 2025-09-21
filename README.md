@@ -50,7 +50,6 @@ You can enter my LeetCode account directly by clicking the icon below:
 
 <p align="left">
   <!-- Row 4 -->
-  <img align="left" alt="GraphQL" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />
   <img alt="Kafka" width="50px" height="50px" src="https://cdn.simpleicons.org/apachekafka/231F20" />
   <img alt="Docker" width="50px" height="50px" src="https://cdn.simpleicons.org/docker/2496ED" />
   <img alt="Git" width="50px" height="50px" src="https://cdn.simpleicons.org/git/F05032" />  
@@ -59,6 +58,15 @@ You can enter my LeetCode account directly by clicking the icon below:
   <img alt="Postman" width="50px" height="50px" src="https://cdn.simpleicons.org/postman/FF6C37" />  
   <img alt="CI/CD" width="50px" height="50px" src="https://avatars.githubusercontent.com/u/44036562?s=200&v=4" />
 </p>
+
+<p align="left">
+  <!-- Row 5 -->
+  <img align="left" alt="REST API" width="50px" src="https://cdn.simpleicons.org/swagger/85EA2D" />
+  <img align="left" alt="GraphQL" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />
+</p>
+
+
+
 
 <br clear="left"/>
 
