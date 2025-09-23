@@ -72,6 +72,14 @@ You can enter my LeetCode account directly by clicking the icon below:
 
 ---
 
+### 📊 GitHub Stats
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FADYYOUSEFF&layout=compact&theme=gruvbox) 
+<br/>
+![Fady's GitHub stats](https://github-readme-stats.vercel.app/api?username=FADYYOUSEFF&show_icons=true&theme=gruvbox)  
+ 
+---
+
 ## 📫 How to Reach Me  
 <a href="https://www.linkedin.com/in/fadyyoussef2/">
   <img align="left" alt="LinkedIn" width="40px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
@@ -80,4 +88,7 @@ You can enter my LeetCode account directly by clicking the icon below:
 <a href="mailto:fadyyoussef4444@email.com">
   <img align="left" alt="Gmail" width="40px" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" />
 </a>
+<br/>
+
+
 
