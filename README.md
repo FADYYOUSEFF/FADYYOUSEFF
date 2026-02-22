@@ -1,10 +1,9 @@
 # Fady Youssef 
 
 ## 🚀 About Me  
-I’m a Computer Engineering student passionate about backend systems, distributed technologies, and automation.  
-I have experience in **Java, C, and C++**, and enjoy building reliable, scalable applications with **Spring Boot, Kafka, Docker, Redis, and security practices**.  
-Alongside backend work, I also explored the frontend world by creating simple projects using **React and Next.js**, which gave me a full-stack perspective.  
-My background in **computer architecture, hardware, and assembly language** gives me a strong foundation for understanding how systems work at a lower level, complementing my software development skills.  
+I’m a Computer Engineering student passionate about building efficient, reliable systems across both software and hardware domains.  
+I have experience in **Java, C, and C++**, and enjoy developing scalable backend applications using **Spring Boot, Kafka, Docker, Redis, and secure system design practices**.    
+My background in **computer architecture, operating systems, complier, hardware systems, and assembly language** strengthens my understanding of how software interacts with low-level components, allowing me to approach system design with a deeper engineering mindset.  
 
 ---
 
@@ -72,13 +71,6 @@ You can enter my LeetCode account directly by clicking the icon below:
 
 ---
 
-### 📊 GitHub Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FADYYOUSEFF&layout=compact&theme=gruvbox) 
-<br/>
-![Fady's GitHub stats](https://github-readme-stats.vercel.app/api?username=FADYYOUSEFF&show_icons=true&theme=gruvbox)  
- 
----
 
 ## 📫 How to Reach Me  
 <a href="https://www.linkedin.com/in/fadyyoussef2/">
